@@ -1,7 +1,6 @@
 package ghasemia;
 
 /**
- * Assignment 1
  *
  * Program : manage a store’s product stock.
  *
